@@ -1,0 +1,58 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "service_name": "E-COMMERCE DEVELOPMENT",
+      "gambar_1": "images/service-image-1.png",
+      "gambar_2": "images/service-image-2.png",
+      "gambar_3": "images/service-image-3.png",
+      "detail": "It’s time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+      "description": "You want to get the best out of your business and turn mere visitors into paying customers? Sell your products on a secure platform and not worry about the technical details? We will help you implement your E-Commerce platform."
+    },
+    {
+      "id": 2,
+      "service_name": "CUSTOM APP DEVELOPMENT",
+      "gambar_1": "images/service-image-1.png",
+      "gambar_2": "images/service-image-2.png",
+      "gambar_3": "images/service-image-3.png",
+      "detail": "It’s time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+      "description": "In the design process, they create both functional and beautiful things. The team possesses unique individuality and strong qualifications and can easily translate something so abstract and visionary into a digital experience. They always put the clients first no matter how complicated the tasks are."
+    },
+    {
+      "id": 3,
+      "service_name": "INTEGRATED WITH 3D PARTY WEB SERVICES",
+      "gambar_1": "images/service-image-1.png",
+      "gambar_2": "images/service-image-2.png",
+      "gambar_3": "images/service-image-3.png",
+      "detail": "It’s time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+      "description": "We use all opportunities to solve business problems. Our intelligent digital strategy and a pragmatic and thoughtful approach to solving business calls deliver a successful framework for both you and your audience."
+    },
+    {
+      "id": 4,
+      "service_name": "HOSTING/MAINTENANCE",
+      "gambar_1": "images/service-image-1.png",
+      "gambar_2": "images/service-image-2.png",
+      "gambar_3": "images/service-image-3.png",
+      "detail": "It’s time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+      "description": "Our hosting services are designed to give you the highest level of security with respect to your website’s performance. We exclusively use safe and modern servers, which minimizes the risk of any single point of failure. This includes a minimized risk of hacks or other malicious activities."
+    },
+    {
+      "id": 5,
+      "service_name": "DESIGN UI/UX",
+      "gambar_1": "images/service-image-1.png",
+      "gambar_2": "images/service-image-2.png",
+      "gambar_3": "images/service-image-3.png",
+      "detail": "It’s time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+      "description": "Although it might seem merely superficial, the user experience might be the most crucial part of your online presence. When viewers are confronted with long loading times, cramped landing pages or an otherwise infuriating design, they will leave quicker than they came."
+    },
+    {
+      "id": 6,
+      "service_name": "SEO SERVICES",
+      "gambar_1": "images/service-image-1.png",
+      "gambar_2": "images/service-image-2.png",
+      "gambar_3": "images/service-image-3.png",
+      "detail": "It’s time to turn your vision into a high-performing and responsive app. This is how your customers will interact with your business, which is why we pay attention to every detail.",
+      "description": "A well-thought-out SEO strategy can boost your growth, and in turn sales, without an expensive PPC-campaign. There are multiple ways we can help you with this."
+    }
+  ]
+}
