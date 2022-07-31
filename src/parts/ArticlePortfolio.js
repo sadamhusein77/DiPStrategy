@@ -1,9 +1,9 @@
 import React from "react";
 import Button from "../component/Button";
 
-export default function ArticlePortfolio({onLearnMore}) {
+export default function ArticlePortfolio({onCaseStudy}) {
   return (
-    <section id="portfolio">
+    <section id="portfolio" className="mt-8">
       <div className="container mx-auto">
         <div className="flex items-center justify-between">
           <div className="w-3/5 text-6xl">PORTFOLIO</div>
@@ -41,7 +41,7 @@ export default function ArticlePortfolio({onLearnMore}) {
                 name={`CASE STUDY`}
                 size={`w-40`}
                 height={`h-10`}
-                onHandleClick={() => onLearnMore(99)}
+                onHandleClick={() => onCaseStudy(99)}
                 />
             </div>
           </div>
@@ -78,7 +78,7 @@ export default function ArticlePortfolio({onLearnMore}) {
                 name={`CASE STUDY`}
                 size={`w-40`}
                 height={`h-10`}
-                onHandleClick={() => onLearnMore(99)}
+                onHandleClick={() => onCaseStudy(99)}
                 />
             </div>
           </div>
@@ -102,7 +102,7 @@ export default function ArticlePortfolio({onLearnMore}) {
                 name={`CASE STUDY`}
                 size={`w-40`}
                 height={`h-10`}
-                onHandleClick={() => onLearnMore(99)}
+                onHandleClick={() => onCaseStudy(99)}
                 />
             </div>
           </div>
