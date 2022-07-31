@@ -55,8 +55,8 @@ export default function ArticleWorkflow({onLearnMore}) {
                 onHandleClick={() => onLearnMore(99)}
                 />
             </div>
-            <div className="text-lg underline mt-8">How we communicate with the client</div>
-            <div className="text-lg underline mt-8">Stages of the process</div>
+            <div className="text-lg underline mt-8"><a href="#home">How we communicate with the client</a></div>
+            <div className="text-lg underline mt-8"><a href="#home">Stages of the process</a></div>
           </div>
         </div>
       </div>
